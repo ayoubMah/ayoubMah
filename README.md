@@ -2,13 +2,15 @@
 
 ### Strike Section
 <div align="center">
-  <h3>🚀 Strike: Always striving for improvement</h3>
-  <p>"Strike" symbolizes my determination to constantly refine my skills, build impactful projects, and overcome challenges in the tech world. Let's hit the target together!</p>
+  <h3>🚀 Strike: Hitting the Target</h3>
+  <p>"Strike" represents my focus on coding consistency and impactful contributions. Here's a glimpse of my activity:</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubMah&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoubMah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
 
 
 
