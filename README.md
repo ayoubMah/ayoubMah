@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! My name is Ayoub and I'm a software engineering student, from Morocco , living in Paris</h2>
 
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayoubMah&theme=dracula&hide_border=true&date_format=j%20M%5B%20%Y%5D)](https://git.io/streak-stats)
-
+### Strike Section
+<div align="center">
+  <h3>🚀 Strike: Always striving for improvement</h3>
+  <p>"Strike" symbolizes my determination to constantly refine my skills, build impactful projects, and overcome challenges in the tech world. Let's hit the target together!</p>
+</div>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoubMah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
