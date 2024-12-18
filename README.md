@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayoub and I'm a software engineering student, from Morocco , living in Paris</h2>
+<h2 align="left">Hi 👋! My name is Ayoub and I'm a software engineering student, from Morocco, living in Paris</h2>
 
 ### Strike Section
 <div align="center">
@@ -9,6 +9,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoubMah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
 
 
 ###
