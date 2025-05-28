@@ -7,7 +7,7 @@
 ### 🚀 Strike: Hitting the Target
 
 <div align="center">
-  <p>Consistency and impactful contributions are the essence of my coding journey. Here's my GitHub activity at a glance:</p>
+  <p>القليلَ الدَّائمَ خَيرٌ مِن الكثيرِ المُنقطِعِ</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubMah&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
@@ -70,7 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
 
 </div>
@@ -84,7 +85,8 @@
 </div>
 
 <div align="center">
-  <p>I code as passionately as I travel, explore, and read. Every project is a journey, and every challenge is an opportunity to grow!</p>
+  <p>Every project is a journey</p>
+  <p>Every challenge is an opportunity to grow!</p>
 </div>
 
 <br clear="both">
