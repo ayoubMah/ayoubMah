@@ -22,7 +22,7 @@
     <img src="https://api.jm26.net/badge/beta?g&label=FOLLOWER&icon=f09b&color=236AD3&url=/github/followers/ayoubMah" height="20px" alt="FOLLOWER">
   </a>
   <a href="https://wakatime.com/@35101741-fdea-4dfb-b86e-1cf702a6e842">
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=flat-square" alt="Total time coded">
+    <img src="https://wakatime.com/badge/user/35101741-fdea-4dfb-b86e-1cf702a6e842.svg?style=flat-square" alt="Total time coded on WakaTime">
   </a>
 </p>
 
