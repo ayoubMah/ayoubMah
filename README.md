@@ -12,6 +12,26 @@
 </div>
 
 ---
+<img src="assets/light.gif" align="center">
+
+<p align="center"> 
+  <a href="https://github.com/ayoubMah?tab=repositories&sort=stargazers">
+    <img src="https://api.jm26.net/badge/beta?g&label=STARS&icon=f09b&color=F5C242&url=/github/stars/ayoubMah" height="20px" alt="STARS">
+  </a>
+  <a href="https://github.com/ayoubMah?tab=followers">
+    <img src="https://api.jm26.net/badge/beta?g&label=FOLLOWER&icon=f09b&color=236AD3&url=/github/followers/ayoubMah" height="20px" alt="FOLLOWER">
+  </a>
+  <a href="https://wakatime.com/@35101741-fdea-4dfb-b86e-1cf702a6e842">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=flat-square" alt="Total time coded">
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ayoubMah&style=flat-square&color=0a2647" alt="Profile Views">
+</p>
+
+---
 
 ### 📊 Stats & Highlights
 <div align="center">
