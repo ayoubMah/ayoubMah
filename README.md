@@ -7,7 +7,7 @@
 ### 🚀 Strike: Hitting the Target
 
 <div align="center">
-  <p>القليلَ الدَّائمَ خَيرٌ مِن الكثيرِ المُنقطِعِ</p>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubMah&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
