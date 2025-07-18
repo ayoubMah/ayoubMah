@@ -1,7 +1,6 @@
-<h2 align="left">Hi there 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 
 ---
-
 <img src="assets/light.gif" align="center">
 
 <p align="center"> 
